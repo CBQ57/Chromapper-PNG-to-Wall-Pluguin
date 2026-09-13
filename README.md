@@ -8,7 +8,7 @@ PNG画像を色付きWallの集合へ変換するChroMapperプラグインです
 - [ChroMapper 0.12.874用ZIP](downloads/PngWall-CM0.12.874.zip)
 - [ChroMapper 0.13.892用ZIP](downloads/PngWall-CM0.13.892.zip)
 
-ZIP内の`Plugins/PngWall.dll`を本体の`Plugins`へコピーして再起動してください。両ZIPには同じ互換DLLが入っています。壁の不透明度の初期値は **0.05** です。
+ZIP内の`Plugins/PngWall.dll`を本体の`Plugins`へコピーして再起動してください。両ZIPには同じ互換DLLが入っています。壁の不透明度の初期値は **0.05** です。（明るすぎると色がほぼ見えない）
 
 ## 機能一覧
 
