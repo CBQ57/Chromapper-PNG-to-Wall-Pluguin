@@ -1,6 +1,7 @@
 # PNG Wall for ChroMapper
 
 PNG画像を色付きWallの集合へ変換するChroMapperプラグインです。画像の縦横比を保ちながら、最大辺のピクセル密度を4〜128で変更できます。
+<img width="3840" height="2060" alt="スクリーンショット (78)" src="https://github.com/user-attachments/assets/9bbb9c2f-6b18-4407-bc78-40a7ad86274d" />
 
 ## ダウンロード
 
