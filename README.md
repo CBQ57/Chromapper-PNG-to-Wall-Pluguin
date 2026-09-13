@@ -7,8 +7,6 @@ PNG画像を色付きWallの集合へ変換するChroMapperプラグインです
 
 ![PNG Wallの動作デモ](assets/demo.gif)
 
-ページ内で自動再生します（音声なし）。[音声付きの元動画（MP4）](https://github.com/CBQ57/Chromapper-PNG-to-Wall-Pluguin/releases/download/v1.0.0/yaju.mp4)
-
 ## ダウンロード
 
 - [ChroMapper 0.12.874用ZIP](downloads/PngWall-CM0.12.874.zip)
