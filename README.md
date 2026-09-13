@@ -5,9 +5,9 @@ PNG画像を色付きWallの集合へ変換するChroMapperプラグインです
 
 ## デモ動画
 
-[デモ動画を見る・ダウンロードする（MP4・約98MB）](https://github.com/CBQ57/Chromapper-PNG-to-Wall-Pluguin/releases/download/v1.0.0/yaju.mp4)
+![PNG Wallの動作デモ](assets/demo.gif)
 
-ブラウザによっては動画ファイルがダウンロードされます。
+ページ内で自動再生します（音声なし）。[音声付きの元動画（MP4）](https://github.com/CBQ57/Chromapper-PNG-to-Wall-Pluguin/releases/download/v1.0.0/yaju.mp4)
 
 ## ダウンロード
 
